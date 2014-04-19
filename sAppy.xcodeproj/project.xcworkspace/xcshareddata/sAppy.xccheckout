@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28007A86-6A1A-43E4-B21B-9C519FA2617C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sAppy</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C551AD08-AD64-4778-953A-AA093CF5F2FF</key>
+		<string>ssh://github.com/wixon/sAppy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sAppy.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C551AD08-AD64-4778-953A-AA093CF5F2FF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/wixon/sAppy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C551AD08-AD64-4778-953A-AA093CF5F2FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C551AD08-AD64-4778-953A-AA093CF5F2FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Sab Client</string>
+		</dict>
+	</array>
+</dict>
+</plist>

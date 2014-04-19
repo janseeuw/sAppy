@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D15DBF6C17F87DEE007307C1"
-               BuildableName = "Sab Client.app"
-               BlueprintName = "Sab Client"
-               ReferencedContainer = "container:Sab Client.xcodeproj">
+               BuildableName = "sAppy.app"
+               BlueprintName = "sAppy"
+               ReferencedContainer = "container:sAppy.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D15DBF8717F87DEE007307C1"
-               BuildableName = "Sab ClientTests.xctest"
-               BlueprintName = "Sab ClientTests"
-               ReferencedContainer = "container:Sab Client.xcodeproj">
+               BuildableName = "sAppyTests.xctest"
+               BlueprintName = "sAppyTests"
+               ReferencedContainer = "container:sAppy.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D15DBF6C17F87DEE007307C1"
-            BuildableName = "Sab Client.app"
-            BlueprintName = "Sab Client"
-            ReferencedContainer = "container:Sab Client.xcodeproj">
+            BuildableName = "sAppy.app"
+            BlueprintName = "sAppy"
+            ReferencedContainer = "container:sAppy.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D15DBF6C17F87DEE007307C1"
-            BuildableName = "Sab Client.app"
-            BlueprintName = "Sab Client"
-            ReferencedContainer = "container:Sab Client.xcodeproj">
+            BuildableName = "sAppy.app"
+            BlueprintName = "sAppy"
+            ReferencedContainer = "container:sAppy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D15DBF6C17F87DEE007307C1"
-            BuildableName = "Sab Client.app"
-            BlueprintName = "Sab Client"
-            ReferencedContainer = "container:Sab Client.xcodeproj">
+            BuildableName = "sAppy.app"
+            BlueprintName = "sAppy"
+            ReferencedContainer = "container:sAppy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -91,6 +91,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "sAppy"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
