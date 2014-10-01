@@ -12,10 +12,10 @@
 
 @interface Server : NSObject
 
-@property (strong, nonatomic) NSString *name;
-@property (strong, nonatomic) NSString *host;
-@property (strong, nonatomic) NSString *port;
-@property (strong, nonatomic) NSString *apiKey;
+@property NSString *name;
+@property NSString *host;
+@property NSString *port;
+@property NSString *apiKey;
 
 @property (nonatomic) NSUInteger paused;
 
