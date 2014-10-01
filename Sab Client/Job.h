@@ -13,8 +13,8 @@
 @interface Job : NSObject
 
 @property (strong, nonatomic) Server *server;
-@property (strong, nonatomic) NSString *filename;
-@property (strong, nonatomic) NSString *nzo_id;
+@property NSString *filename;
+@property NSString *nzo_id;
 @property (nonatomic) NSUInteger mb;
 @property (nonatomic) NSUInteger mbleft;
 @property (nonatomic) CGFloat percentage;
