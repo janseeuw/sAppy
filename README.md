@@ -10,4 +10,3 @@ SABnzbd remote app for iOS
 - Can pause/resume downloads
 - Sober but efficient look and feel
 
-App has not been fully tested!
